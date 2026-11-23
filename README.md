@@ -1,16 +1,30 @@
-## Hi there 👋
+# Atsah Huri
 
-<!--
-**atsahhuri-beep/atsahhuri-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Web Developer**
 
-Here are some ideas to get you started:
+Interested in web development, building applications, and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+
+- Currently learning web development.
+- Working with Laravel and Next.js.
+- Interested in building useful and responsive web applications.
+- Open to learning and collaborating on projects.
+
+### Tech Stack
+
+- **Backend:** PHP, Laravel
+- **Frontend:** Next.js, Tailwind CSS
+- **Tools:** Git, GitHub, VS Code
+
+### Selected Projects
+
+**Sistem Manajemen Pasca Panen**
+A web-based harvest management system built with Laravel.
+
+**Company Profile Website**
+A modern and responsive company website built with Next.js and Tailwind CSS.
+
+---
+
+*Learn. Build. Improve.*
